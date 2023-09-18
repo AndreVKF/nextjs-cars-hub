@@ -4,7 +4,7 @@ import { fetchCars } from "@/services/fetchCars";
 
 // next allows page to be async
 
-export default async function Home({ searchParams }) {
+export default async function Home({ searchParams }: any) {
   
   const allCars = await fetchCars({
     manufacturer: searchParams.manufacturer || '',
