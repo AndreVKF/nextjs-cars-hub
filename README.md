@@ -12,7 +12,7 @@ https://nextjs-cars-hub.vercel.app/
 - Filter list of cars depending on brand, fuel type and year;
 - Open modal to display more info;
 - Pagination for more cars;
-- 
+
 ## Stacks
 
 **Front-end:** TypeScript, NextJS, React, Tailwind
